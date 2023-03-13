@@ -1,5 +1,5 @@
 # Gymnasiearbete inom linjen produktionsteknik
-"Mekanisk dansare: Den dansande robotarmen Lilith"
+###### "Mekanisk dansare: Den dansande robotarmen Lilith"
 
 Ett projekt där vi designade, konstruerade och programmerade en robotarm. Projektet grundades i gruppens bakgrund inom dans och en vilja att kombinera estetik med teknik. Syftet var att bygga roboten från grunden och programmera den så att den kunde röra sig till musik.
 
