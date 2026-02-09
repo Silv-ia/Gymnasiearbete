@@ -1,5 +1,14 @@
-# Gymnasiearbete inom linjen produktionsteknik
+# High School Degree project (Industrial/production technology)
 ###### "Mekanisk dansare: Den dansande robotarmen Lilith"
+###### "Mechanical dancer: The dancing robotic arm Lilith."
+
+The project was created based on the group's background in dance and the aim to combine aesthetics with technology. We fully designed, built, and programmed the almost 2-meter-tall robotic arm.
+
+My responsibilities were the electronics and the coding. Source: https://www.arduino.cc/reference/en/.
+
+Lilith is driven by servo motors, both linear and rotational, which require two functions. Additionally, to adapt Lilith's movements to music, there is a variable for the bpm of songs. 
+
+------
 
 Ett projekt där vi designade, konstruerade och programmerade en robotarm. Projektet grundades i gruppens bakgrund inom dans och en vilja att kombinera estetik med teknik. Syftet var att bygga roboten från grunden och programmera den så att den kunde röra sig till musik.
 
